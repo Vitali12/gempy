@@ -1,0 +1,16 @@
+
+:orphan:
+
+.. _sphx_glr_integrations_sg_execution_times:
+
+Computation times
+=================
+**01:30.803** total execution time for **integrations** files:
+
++----------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_integrations_gempy_discretize_emg3d.py` (``gempy_discretize_emg3d.py``) | 00:53.025 | 0.0 MB |
++----------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_integrations_gempy_striplog.py` (``gempy_striplog.py``)                 | 00:21.845 | 0.0 MB |
++----------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_integrations_gempy_export_MOOSE.py` (``gempy_export_MOOSE.py``)         | 00:15.932 | 0.0 MB |
++----------------------------------------------------------------------------------------+-----------+--------+
